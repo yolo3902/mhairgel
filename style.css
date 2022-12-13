@@ -1,0 +1,16 @@
+body {
+    background-color: dodgerblue;
+}
+h1 {
+    color: fuchsia;
+}
+img{
+    border: 2px solid yellow;
+}
+p{
+    font-family: monospace;
+}
+
+p {
+    color: black;
+}
